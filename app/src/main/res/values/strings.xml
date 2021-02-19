@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1_Part2</string>
+    <string name="Rule1">1) The user controls the X and the computer controls the O. <br></br> </string>
+    <string name="Rule2">2) The user goes first alternating with the computer and must enter a number between 0-24 to select a move. <br></br> </string>
+    <string name="Rule3">3) The first to get four spaces filled in a row wins, If all the spaces are filled with no winner the game is a tie. <br></br> </string>
+    <string name="PlayerName">name</string>
+    <string name="CurrentPlayer"></string>
+    />
+</resources>
